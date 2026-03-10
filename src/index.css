@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+:root {
+  --color-beige: #f5f1e8;
+  --color-sand: #e7ddcc;
+  --color-latte: #c9b79c;
+  --color-coffee: #6f5c45;
+}
+
+body {
+  background: var(--color-beige);
+}
