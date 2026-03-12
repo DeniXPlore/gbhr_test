@@ -1,6 +1,6 @@
 import { useEffect, useState, useCallback } from "react";
 import { fetchUsers, searchUsers } from "../api/userApi";
-import { UserCard } from "../components/userCard";
+import { UserCard } from "../components/UserCard";
 import { SearchBar } from "../components/SearchBar";
 import { Pagination } from "../components/Pagination";
 
